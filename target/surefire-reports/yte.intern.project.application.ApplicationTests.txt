@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: yte.intern.project.application.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.735 s - in yte.intern.project.application.ApplicationTests

@@ -1,0 +1,9 @@
+.mainContainer{
+
+    height: 800px;
+}
+.classicQElement{
+    height:100px; 
+    margin-top:1em;
+    margin-left:1em;
+}

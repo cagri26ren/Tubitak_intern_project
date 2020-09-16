@@ -1,0 +1,60 @@
+.menuStyle{
+    display: inline;
+    position: fixed;
+    width: 14%;
+    height: 753px;    
+    margin: 0;
+    background-color: black;
+}
+.menuItemStyle{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-left: 15%;
+    margin-top: 4%;
+}
+
+text{
+    color: #15026b;
+    font-size: 20px;
+}
+
+.logInCon{
+    height: 50px;
+    margin-top: 180%;
+    border-bottom: 1px solid #15026b;
+    border-top: 1px solid #15026b;
+    transition: border 1s linear;
+}
+
+.normCon{
+    height: 50px;
+    margin-top:10%;
+    border-bottom: 1px solid #15026b;
+    border-top: 1px solid #15026b;
+    transition: border 1s linear;
+}
+
+
+.normCon:hover{
+    border: 1px solid white;
+}
+.normCon:hover text{
+    color: white;
+}
+.normCon:hover .ax{
+    color: white;
+}
+.logInCon:hover{
+    border: 1px solid white;
+}
+.logInCon:hover text{
+    color: white;
+}
+.logInCon:hover .ax{
+    color: white;
+}
+
+.ax{
+    color: #15026b;
+}

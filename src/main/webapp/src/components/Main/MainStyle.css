@@ -1,0 +1,115 @@
+#a{
+    background: transparent;
+    background-color: green;
+    width: 100%;
+    height: 100%;
+    border: 2px solid green;
+    border-radius: 10px;
+    color: white;
+    font-size: large;
+    transition: transform 1s linear;
+}
+
+#a:hover{
+    transform: scale(1.1,1.1);
+}
+
+
+.eventContainer{
+    width: 60%;
+    height: 300px;
+    background-color: white;
+    margin: 40px auto;
+    border-radius: 50px;
+    border: 4px solid black;
+}
+
+#viewButt{
+    background: transparent;
+    border: 4px solid black;
+    height: 30px;
+    width: 5em;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+#viewButt:hover{
+    border: 4px solid green;
+    color: green;
+}
+
+#editButt{
+    background: transparent;
+    border: 4px solid black;
+    height: 30px;
+    width: 6em;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+#editButt:hover{
+    border: 4px solid yellow;
+    color: yellow;
+}
+
+
+#deleteButt{
+    background: transparent;
+    border: 4px solid black;
+    height: 30px;
+    width: 6em;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+#deleteButt:hover{
+    border: 4px solid red;
+    color: red;
+}
+
+#giveawayButt{
+    background: transparent;
+    border: 4px solid black;
+    height: 30px;
+    width: 6em;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+#giveawayButt:hover{
+    border: 4px solid plum;
+    color: plum;
+}
+
+
+
+#ab{
+    background: transparent;
+    border: 4px solid black;
+    height: 30px;
+    width: 5em;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+#ab:hover{
+    border: 4px solid blue;
+    color: blue;
+}
+
+#ask{
+    background: transparent;
+    border: 4px solid black;
+    height: 30px;
+    width: 5em;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+#ask:hover{
+    border: 4px solid orange;
+    color: orange
+}
