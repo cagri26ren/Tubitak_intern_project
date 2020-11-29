@@ -32,6 +32,10 @@ This repository composed of 3 parts of one "Event Management System" project.
  <p>Homepage for outside users</p>
   <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/HomepageOutsideUser.PNG" width="700" height="400" />
   
+ <h3>Login</h3>
+ <div>For admin user can login to his account.</div>
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Login.PNG" width="700" height="400" />
+  
   <h3>Creating Events</h3>
  <div>This acction can only be done by the admin user in the add event page.</div>
  <p>Event name, event capacity, event location, event start and end dates and decision to ask optional questions for outside users and surveys are all determined by the admin user.</p>
@@ -59,7 +63,7 @@ This repository composed of 3 parts of one "Event Management System" project.
  <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/DeleteEvent.PNG" width="700" height="400" />
  
  <h3>Join Events</h3>
- <div>Outside users can go to join event page by touching the join button on the choosen event.</div>
+ <div>Outside users can go to join event page by clicking the join button on the choosen event.</div>
  <div>Outside users can fill the application given by the system and join event.</div>
  <p>All the things added in the add event page will be asked to the outside user.</p>
  <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/JoinEvent1.PNG" width="700" height="400" />
@@ -68,5 +72,47 @@ This repository composed of 3 parts of one "Event Management System" project.
  <p>After user complete their application a qrcode sent to their e-mail which will be used to enter events.</p>
  <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/QRCode.PNG" width="700" height="400" />
  <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Email.PNG" width="700" height="400" />
+ 
+ <h3>Event Reports</h3>
+ <div>Admin user can get detailed reports about the events such as which day how many participants joined and detailed report about participants.</div>
+ <div>Outside users can fill the application given by the system and join event.</div>
+ <p>Report about events.</p>
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Report1.PNG" width="700" height="400" />
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/report2.PNG" width="700" height="400" />
+ <p>Report about participant.</p>
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Report3.PNG" width="700" height="400" />
+ 
+ <h3>Event QnAs</h3>
+ <div>Outside users can ask questions about the event by clicking the Ask Us button on the choosen event.</div>
+ <p>Tc of the participant asked to make sure he/she is in the event.</p>
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/QnA.PNG" width="700" height="400" />
+ <p>Outside user is taken to a page where user can see his/her previously asked questions, ask new questions and given answers.</p>
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/QnA2.PNG" width="700" height="400" />
+ <p>Admin user can answer and view the questions through the quesiton page.</p>
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/QnA3.PNG" width="700" height="400" />
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/QnA4.PNG" width="700" height="400" />
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/QnA5.PNG" width="700" height="400" />
+ <p>Outside user can view the answers.</p>
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/QnA6.PNG" width="700" height="400" />
+ 
+ <h3>Event Surveys</h3>
+ <div>Outside users can take surveys that are designed by the event creator.</div>
+ <p>View available surveys.</p>
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Survey1.PNG" width="700" height="400" />
+ <p>Answer survey questions.</p>
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Survey2.PNG" width="700" height="400" />
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Survey3.PNG" width="700" height="400" />
+ <p>Outside user can view the given answers.</p>
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Survey4.PNG" width="700" height="400" />
+ <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Survey5.PNG" width="700" height="400" />
+ 
+ <h3>Mobile Extension</h3>
+ <div>Outside users can view and join events.</div>
+ <div><img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Flutter1.PNG" width="250" height="400" /></div>
+ <p>Users can go to join page touching the choosen event</p>
+ <div><img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Flutter2.PNG" width="250" height="400" /></div>
+ <p></p>
+ <div><img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Flutter3.PNG" width="250" height="400" /></div>
+
 
 
