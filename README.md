@@ -1,9 +1,11 @@
 # Event Management System
 <h2>Technical</h2>
 This repository composed of 3 parts of one "Event Management System" project.
-  <div>   -To use backend, use the code in the "SpringBackend" folder.</div>
-  <div>   -To use web frontend, use the code in the "ReactWebFrontend" folder.</div>
-  <div>   -To use mobile extension, use the code in the "FlutterMobileExtension" folder.</div>
+<p>-To use backend, use the code in the "SpringBackend" folder.</p>
+<p>-To use web frontend, use the code in the "ReactWebFrontend" folder.</p>
+<p>-To use mobile extension, use the code in the "FlutterMobileExtension" folder.</p>
+<p>Important: You must add your Google api key to the MapContainer.js file and MapContainerView.js file where it is written "YOUR_KEY_HERE" to map feature keep working!</p>
+
  <h2>Project</h2> 
  An Event Management System that you can operate events. In this project there are type of users,
  <div>-Admin User</div>
