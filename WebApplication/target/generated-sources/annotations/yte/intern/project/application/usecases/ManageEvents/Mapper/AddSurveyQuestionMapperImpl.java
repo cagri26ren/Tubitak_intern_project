@@ -9,7 +9,7 @@ import yte.intern.project.application.usecases.ManageEvents.Entity.SurveyQuestio
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2020-09-07T16:16:23+0300",
+    date = "2020-11-28T19:51:49+0300",
     comments = "version: 1.3.1.Final, compiler: javac, environment: Java 14.0.1 (Oracle Corporation)"
 )
 @Component

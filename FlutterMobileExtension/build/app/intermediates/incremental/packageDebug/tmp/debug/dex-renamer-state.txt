@@ -1,0 +1,4 @@
+#Sun Nov 29 03:03:59 EET 2020
+base.0=C\:\\Users\\Cagri Eren\\Documents\\GitHub\\Tubitak_intern_project\\FlutterMobileExtension\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

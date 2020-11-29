@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:tubitak_intern_mobile_project/models/Question.dart';
 import 'package:tubitak_intern_mobile_project/models/SurveyQuestion.dart';
 
-
-
 class Participant {
   String name;
   String surname;

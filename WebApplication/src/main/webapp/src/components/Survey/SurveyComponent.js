@@ -10,7 +10,7 @@ function SurveyComponent(props){
 
 
     return(
-        <div style={{marginTop:'20px',height:'260px',width:'26%',border:'1px solid black'}}>
+        <div style={{height:'260px',width:'26%',border:'1px solid black'}}>
             <div style={{height:'260px',display:'flex',flexDirection:'column',justifyContent:'space-evenly'}}>
                 <div>
                     Name: {props.name}

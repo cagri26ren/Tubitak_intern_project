@@ -28,7 +28,7 @@ function MyComponent({locationChoosed,curLat,curLng}) {
 
   return (
     <LoadScript
-      googleMapsApiKey="YOUR_API_CODE_HERE"
+      googleMapsApiKey="AIzaSyBCeAgR3VSJLN36d8Ip2OGE2X64_K-7l2E"
     >
       <GoogleMap
         mapContainerStyle={containerStyle}
