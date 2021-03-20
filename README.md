@@ -35,7 +35,7 @@ This repository composed of 3 parts of one "Event Management System" project.
   <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/HomepageOutsideUser.PNG" width="700" height="400" />
   
  <h3>Login</h3>
- <div>For admin user to login his account.</div>
+ <div>For admin user to login his/her account.</div>
  <img src="https://github.com/cagri26ren/Tubitak_intern_project/blob/master/pictures/Login.PNG" width="700" height="400" />
   
   <h3>Creating Events</h3>
